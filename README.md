@@ -879,4 +879,4 @@ This project demonstrates how intermediate SQL can be used to explore healthcare
 
 The most important skills to master are `GROUP BY`, `HAVING`, conditional aggregation, CTEs, subqueries, joins, and window functions. These skills are transferable to many data analyst and data scientist roles beyond healthcare.
 
-**Recommended next step:** Run the queries in order against your actual `healthcare_ds.diabetes_130_raw` table, record the results, and use those results to write your final findings report. Avoid inventing results or drawing causal conclusions from descriptive statistics.
+
